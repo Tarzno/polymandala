@@ -1,0 +1,12 @@
+# SwiftPM build cache and built products
+.build/
+dist/
+
+# Xcode workspace state created when opening Package.swift
+.swiftpm/
+
+# macOS Finder metadata
+.DS_Store
+
+# Private notes for Claude Code
+CLAUDE.md
